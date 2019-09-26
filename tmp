@@ -1,0 +1,470 @@
+
+##################172.19.180.25########################
+
+hostname
+LXRP-POLO-AS3
+[root@LXRP-POLO-AS3 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS3 ~]#
+
+
+
+##################172.19.180.27########################
+
+hostname
+LXRP-POLO-AS5
+[root@LXRP-POLO-AS5 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS5 ~]#
+
+
+
+##################172.19.180.29########################
+
+hostname
+LXRP-POLO-AS7
+[root@LXRP-POLO-AS7 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS7 ~]#
+
+
+
+##################172.19.180.31########################
+
+hostname
+LXRP-UTIS-DGP1
+[root@LXRP-UTIS-DGP1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-DGP1 ~]#
+
+
+
+##################172.19.180.33########################
+
+hostname
+LXRP-UTIS-DGP3
+[root@LXRP-UTIS-DGP3 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-DGP3 ~]#
+
+
+
+##################172.19.180.35########################
+
+hostname
+LXRP-UTIS-MBX1
+[root@LXRP-UTIS-MBX1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-MBX1 ~]#
+
+
+
+##################172.19.180.95########################
+
+hostname
+LXRP-DGP1-SVC1
+[root@LXRP-DGP1-SVC1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-SVC1 ~]#
+
+
+
+##################172.19.180.94########################
+
+hostname
+LXRP-DGP2-SVC1
+[root@LXRP-DGP2-SVC1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-SVC1 ~]#
+
+
+
+##################172.19.180.45########################
+
+hostname
+LXRP-DGP3-SVC1
+[root@LXRP-DGP3-SVC1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-SVC1 ~]#
+
+
+
+##################172.19.180.37########################
+
+hostname
+LXRP-DGP1-GTS1
+[root@LXRP-DGP1-GTS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-GTS1 ~]#
+
+
+
+##################172.19.180.99########################
+
+hostname
+LXRP-DGP1-GMS1
+[root@LXRP-DGP1-GMS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-GMS1 ~]#
+
+
+
+##################172.19.180.98########################
+
+hostname
+LXRP-DGP1BE-AS1
+[root@LXRP-DGP1BE-AS1 ~]# df -hTP | grep ^10
+[root@LXRP-DGP1BE-AS1 ~]#
+
+
+
+##################172.19.180.96########################
+
+hostname
+LXRP-DGP2-GTS1
+[root@LXRP-DGP2-GTS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-GTS1 ~]#
+
+
+
+##################172.19.180.39########################
+
+hostname
+LXRP-DGP2-GMS1
+[root@LXRP-DGP2-GMS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-GMS1 ~]#
+
+
+
+##################172.19.180.109########################
+
+hostname
+LXRP-DGP2BE-AS1
+[root@LXRP-DGP2BE-AS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2BE-AS1 ~]#
+
+
+
+##################172.19.180.101########################
+
+hostname
+LXRP-DGP3-GTS1
+[root@LXRP-DGP3-GTS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-GTS1 ~]#
+
+
+
+##################172.19.180.100########################
+
+hostname
+LXRP-DGP3-GMS1
+[root@LXRP-DGP3-GMS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-GMS1 ~]#
+
+
+
+##################172.19.180.41########################
+
+hostname
+LXRP-DGP3BE-AS1
+[root@LXRP-DGP3BE-AS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3BE-AS1 ~]#
+
+
+
+##################172.19.180.111########################
+
+hostname
+LXRP-GMSD-GMS1
+[root@LXRP-GMSD-GMS1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-GMS1 ~]#
+
+
+
+##################172.19.180.113########################
+
+hostname
+LXRP-GMSD-SM1
+[root@LXRP-GMSD-SM1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-SM1 ~]#
+
+
+
+##################172.19.180.115########################
+
+hostname
+LXRP-GMSD-SVC1
+[root@LXRP-GMSD-SVC1 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-SVC1 ~]#
+
+
+
+##################172.19.181.24########################
+
+hostname
+LXRP-POLO-AS2
+[root@LXRP-POLO-AS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS2 ~]#
+
+
+
+##################172.19.181.26########################
+
+hostname
+LXRP-POLO-AS4
+[root@LXRP-POLO-AS4 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS4 ~]#
+
+
+
+##################172.19.181.28########################
+
+hostname
+LXRP-POLO-AS6
+[root@LXRP-POLO-AS6 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS6 ~]#
+
+
+
+##################172.19.181.30########################
+
+hostname
+LXRP-POLO-AS8
+[root@LXRP-POLO-AS8 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-POLO-AS8 ~]#
+
+
+
+##################172.19.181.32########################
+
+hostname
+LXRP-UTIS-DGP2
+[root@LXRP-UTIS-DGP2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-DGP2 ~]#
+
+
+
+##################172.19.181.34########################
+
+hostname
+LXRP-UTIS-DGP4
+[root@LXRP-UTIS-DGP4 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-DGP4 ~]#
+
+
+
+##################172.19.181.36########################
+
+hostname
+LXRP-UTIS-MBX2
+[root@LXRP-UTIS-MBX2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-UTIS-MBX2 ~]#
+
+
+
+##################172.19.181.48########################
+
+hostname
+LXRP-DGP1-SVC2
+[root@LXRP-DGP1-SVC2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-SVC2 ~]#
+
+
+
+##################172.19.181.46########################
+
+hostname
+LXRP-DGP2-SVC2
+[root@LXRP-DGP2-SVC2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-SVC2 ~]#
+
+
+
+##################172.19.181.44########################
+
+hostname
+LXRP-DGP3-SVC2
+[root@LXRP-DGP3-SVC2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-SVC2 ~]#
+
+
+
+##################172.19.181.38########################
+
+hostname
+LXRP-DGP1-GTS2
+[root@LXRP-DGP1-GTS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-GTS2 ~]#
+
+
+
+##################172.19.181.74########################
+
+hostname
+LXRP-DGP1-GMS2
+[root@LXRP-DGP1-GMS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1-GMS2 ~]#
+
+
+
+##################172.19.181.72########################
+
+hostname
+LXRP-DGP1BE-AS2
+[root@LXRP-DGP1BE-AS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP1BE-AS2 ~]#
+
+
+
+##################172.19.181.70########################
+
+hostname
+LXRP-DGP2-GTS2
+[root@LXRP-DGP2-GTS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-GTS2 ~]#
+
+
+
+##################172.19.181.40########################
+
+hostname
+LXRP-DGP2-GMS2
+[root@LXRP-DGP2-GMS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2-GMS2 ~]#
+
+
+
+##################172.19.181.84########################
+
+hostname
+LXRP-DGP2BE-AS2
+[root@LXRP-DGP2BE-AS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP2BE-AS2 ~]#
+
+
+
+##################172.19.181.83########################
+
+hostname
+LXRP-DGP3-GTS2
+[root@LXRP-DGP3-GTS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-GTS2 ~]#
+
+
+
+##################172.19.181.82########################
+
+hostname
+LXRP-DGP3-GMS2
+[root@LXRP-DGP3-GMS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3-GMS2 ~]#
+
+
+
+##################172.19.181.42########################
+
+hostname
+LXRP-DGP3BE-AS2
+[root@LXRP-DGP3BE-AS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-DGP3BE-AS2 ~]#
+
+
+
+##################172.19.181.94########################
+
+hostname
+LXRP-GMSD-GMS2
+[root@LXRP-GMSD-GMS2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-GMS2 ~]#
+
+
+
+##################172.19.181.95########################
+
+hostname
+LXRP-GMSD-SM2
+[root@LXRP-GMSD-SM2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-SM2 ~]#
+
+
+
+##################172.19.181.96########################
+
+hostname
+LXRP-GMSD-SVC2
+[root@LXRP-GMSD-SVC2 ~]# df -hTP | grep ^10
+10.8.48.11:/daily_game_prod/prod_logbackup nfs    2.0T  1.5M  2.0T   1% /log_backup
+10.8.48.11:/daily_game_prod/prod_dgp       nfs    2.0T  1.5M  2.0T   1% /lotto/share/common/daily
+[root@LXRP-GMSD-SVC2 ~]#
+
